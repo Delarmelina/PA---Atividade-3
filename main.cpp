@@ -1,3 +1,5 @@
+//Felipe Ferreira Delarmelina
+
 #include <iostream>
 #include "triangulo.h"
 
