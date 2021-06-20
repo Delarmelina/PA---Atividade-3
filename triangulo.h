@@ -13,7 +13,7 @@ namespace TT{
 
   // Calcula perimetro do triangulo
  void calcularPerimetro(tTriangulos Trg){
-    cout << "Perimetro do Triangulo: " << Trg.lado1 + Trg.lado2 + Trg.lado3 << endl; 
+    cout << "Perimetro do Triangulo: " << Trg.lado1 + Trg.lado2 + Trg.lado3 << endl;
  };
 
  // Calcula a area do triangulo
